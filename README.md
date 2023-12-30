@@ -20,6 +20,33 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Installation
+
+Follow the steps below to install and setup the project:
+
+1. Clone the repository
+
+   Open your terminal and run the following command:
+   ```https://github.com/CodeOfMugiwara/chatdoc.git```
+
+2. Navigate to the project directory
+   ```cd chatdoc````
+
+3. Install Node.js
+   The project requires Node.js version 14.0.01 or later.
+
+4. Install the required dependencies
+   Run the following cmd to install all the required dependencies:
+   ```npm install```
+
+5. Setup Environment variables
+   Create a ```.env``` file in the root directory of your project and add the required environment variables.
+
+6. Run the project
+   Now, you can run the project using the following command:
+   ```npm run dev```
+   open http://localhost:3000 on your prefered browser to see the result.
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
