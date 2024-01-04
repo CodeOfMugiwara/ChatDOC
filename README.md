@@ -30,21 +30,21 @@ Follow the steps below to install and setup the project:
    ```https://github.com/CodeOfMugiwara/chatdoc.git```
 
 2. Navigate to the project directory
-   ```cd chatdoc````
+   `cd chatdoc`
 
 3. Install Node.js
    The project requires Node.js version 14.0.01 or later.
 
 4. Install the required dependencies
    Run the following cmd to install all the required dependencies:
-   ```npm install```
+   `npm install`
 
 5. Setup Environment variables
-   Create a ```.env``` file in the root directory of your project and add the required environment variables.
+   Create a `.env` file in the root directory of your project and add the required environment variables.
 
 6. Run the project
    Now, you can run the project using the following command:
-   ```npm run dev```
+   `npm run dev`
    open http://localhost:3000 on your prefered browser to see the result.
 
 ## Learn More
